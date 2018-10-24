@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlin-kurimbotmobileapp</string>
+    <string name="login_hello">Вас приветсвует приложение KB Support!\nНажмите кнопку Войти, что начать!</string>
+    <string name="login_enter">Войти</string>
+    <string name="login_error_credentials">login un incorrect</string>
+</resources>
